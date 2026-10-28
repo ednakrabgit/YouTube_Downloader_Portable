@@ -12,6 +12,7 @@ dist/
 .vscode/
 *.tmp
 *.zip
+*.log
 ffmpeg.exe
 ffmpeg_temp/
 New Text Document.txt
