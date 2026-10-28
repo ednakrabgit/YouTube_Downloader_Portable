@@ -1,0 +1,17 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Temporary files & Editor
+.vscode/
+*.tmp
+*.zip
+ffmpeg.exe
+ffmpeg_temp/
+New Text Document.txt
